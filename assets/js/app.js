@@ -16,10 +16,9 @@ soundContainers.forEach(element => {
 
 var options = {
   strings: [
-    'Sors ton Bambou et expose ton SWAG de poulet !',
-    'Ici tout est une affaire de gros bambou!',
-    'Ben alors tu attends quoi, clique sur ce fichu lien!',
-    "Deux cerveaux valent mieux qu'un !"
+    'Presse un bouton et accroche ton slip !',
+    'Choisis vite mais choisis bien !',
+    "Reviens au coeur de l'action en cliquant ce lien !"
   ],
   typeSpeed: 40,
   backSpeed: 10,

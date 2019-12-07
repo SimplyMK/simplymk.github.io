@@ -83,19 +83,19 @@ html {
 /* Sound container */
 
 .sound-container{
-  background-color: #6c5ce7;
+  background-color: #7616ac;
   box-shadow: 10px 7px 14px #888888;
   color: #e6dcdc;
   cursor: pointer;
 }
 
 .sound-container.music{
-  background-color: #f9aa12;
+  background-color: #fd7d12;
   color: #e6dcdc;
 }
 
 .sound-container.wtf{
-  background-color: #ca1f9c;
+  background-color: #ce1a9e;
   color: #e6dcdc;
 }
 
