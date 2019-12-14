@@ -16,13 +16,14 @@ soundContainers.forEach(element => {
 
 var options = {
   strings: [
-    'Presse un bouton et accroche ton slip !',
-    'Choisis vite mais choisis bien !',
-    "Reviens au coeur de l'action en cliquant ce lien !"
+    "Plutôt P'tit Bambou ou Gros Roseau ?",
+    "Clique à droite et accroche ton slip !",
+    "Si c'est cassé c'est pas ma faute.",
+    "Ou p'têt bien qu'si."
   ],
-  typeSpeed: 40,
-  backSpeed: 10,
-  shuffle: true,
+  typeSpeed: 50,
+  backSpeed: 20,
+  shuffle: false,
   showCursor: false
 };
 
