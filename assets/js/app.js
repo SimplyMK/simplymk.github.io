@@ -19,7 +19,7 @@ var options = {
     "Plutôt P'tit Bambou ou Gros Roseau ?",
     "Clique à droite et accroche ton slip !",
     "Si c'est cassé c'est pas ma faute !",
-    "(Ou p'têt bien qu'si...)"
+    "Ou p'têt bien qu'si..."
   ],
   typeSpeed: 50,
   backSpeed: 20,
