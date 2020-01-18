@@ -25,7 +25,7 @@ var options = {
   backSpeed: 20,
   backDelay: 3000,
   shuffle: false,
-  showCursor: false
+  showCursor: false,
   loop: true,
   loopCount: Infinity
 };
