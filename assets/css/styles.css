@@ -1,7 +1,7 @@
 /* Base */
 
 html {
-  background-color: #eaeaea;
+  background-color: #e3e6e9;
 }
 /* Bounce To Right */
 .hvr-bounce-to-right {
@@ -28,7 +28,7 @@ html {
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;background-color: #29a19c;
-  box-shadow: 10px 7px 14px #888888;
+  box-shadow: 10px 7px 14px #424242;
   transition-property: transform;
   -webkit-transition-duration: 0.5s;
   transition-duration: 0.5s;
@@ -48,7 +48,7 @@ html {
 /* Push */
 @-webkit-keyframes hvr-push {
   50% {background-color: #29a19c;
-    box-shadow: 10px 7px 14px #888888;
+    box-shadow: 10px 7px 14px #424242;
     transform: scale(1);
   }
 }
@@ -84,18 +84,18 @@ html {
 
 .sound-container{
   background-color: #7616ac;
-  box-shadow: 10px 7px 14px #888888;
+  box-shadow: 10px 7px 14px #424242;
   color: #e6dcdc;
   cursor: pointer;
 }
 
 .sound-container.music{
-  background-color: #fd7d12;
+  background-color: #ff7400;
   color: #e6dcdc;
 }
 
 .sound-container.wtf{
-  background-color: #ce1a9e;
+  background-color: #3273ac;
   color: #e6dcdc;
 }
 

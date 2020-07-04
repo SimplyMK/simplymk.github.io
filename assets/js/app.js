@@ -16,10 +16,10 @@ soundContainers.forEach(element => {
 
 var options = {
   strings: [
-    "Plutôt P'tit Bambou ou Gros Roseau ?",
-    "Clique à droite et accroche ton slip !",
-    "Si c'est cassé c'est pas ma faute !",
-    "Ou p'têt bien qu'si..."
+    "Clique pour pré-écouter la commande!",
+    "Elle est automatiquement ajoutée au Presse-papier.",
+    "Plus qu'à la coller dans le tchat!",
+    "Enjoy!"
   ],
   typeSpeed: 50,
   backSpeed: 20,
