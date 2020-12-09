@@ -16,7 +16,7 @@ soundContainers.forEach(element => {
 
 var options = {
   strings: [
-    "Clique pour pré-écouter la commande!",
+    "Clique pour écouter la commande!",
     "Elle est automatiquement ajoutée au Presse-papier.",
     "Plus qu'à la coller dans le tchat!",
     "Enjoy!"
