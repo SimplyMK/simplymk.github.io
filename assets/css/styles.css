@@ -1,7 +1,7 @@
 /* Base */
 
 html {
-  background-color: #e3e6e9;
+  background-color: #d1d1d1;
 }
 /* Bounce To Right */
 .hvr-bounce-to-right {
@@ -83,19 +83,19 @@ html {
 /* Sound container */
 
 .sound-container{
-  background-color: #7616ac;
+  background-color: #865ae3;
   box-shadow: 10px 7px 14px #424242;
   color: #e6dcdc;
   cursor: pointer;
 }
 
 .sound-container.music{
-  background-color: #ff7400;
+  background-color: #d37a49;
   color: #e6dcdc;
 }
 
 .sound-container.wtf{
-  background-color: #3273ac;
+  background-color: #5284cf;
   color: #e6dcdc;
 }
 
